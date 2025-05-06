@@ -64,12 +64,6 @@ public class ToggleSquareAndEmail : MonoBehaviour
     {
         userEmail = emailInputField.text.Trim();
 
-        if (!IsValidEmail(userEmail))
-        {
-            ShowInvalidMessage();
-            return;
-        }
-
         ShowConfirmationOptions();
     }
 
