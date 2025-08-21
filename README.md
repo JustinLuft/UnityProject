@@ -112,4 +112,3 @@ Your team can update the following content without editing code:
 - **Client**: College of Charleston Department of Computer Science
 - **Built with**: Unity 2D, C#, SMTP API, FFmpeg
 
-Questions or feedback? Reach out at [your contact email].
